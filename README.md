@@ -1,1 +1,2 @@
-# ishant-GEOLOGIST-project
+# Geologist
+Geologist Project
